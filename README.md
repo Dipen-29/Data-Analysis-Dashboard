@@ -20,3 +20,8 @@ Excited to keep learning and building more data-driven solutions! 🚀
 Feedback and suggestions are always welcome.
 
 #DataAnalytics #DashboardDesign #HealthcareAnalytics #PowerBI #DataVisualization #LearningJourney #EmergencyRoom #AnalyticsProject
+
+##
+Dashboard
+<img width="1800" height="721" alt="Final Dashboard of Hospital Emergency Room" src="https://github.com/user-attachments/assets/04eda648-610a-4bbd-9a43-c75b7490d8ba" />
+
